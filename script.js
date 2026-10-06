@@ -1,5 +1,5 @@
 /* ==========================================================================
-   TOXA PRINT MARKET — INTERACTIVE JAVASCRIPT ENGINE (2026 EDITION)
+   TOXA PRINT MARKET — INTERAconst productsTIVE JAVASCRIPT ENGINE (2026 EDITION)
    ========================================================================== */
 
 document.addEventListener('DOMContentLoaded', () => {
